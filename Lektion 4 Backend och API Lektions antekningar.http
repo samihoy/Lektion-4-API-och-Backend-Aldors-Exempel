@@ -1,0 +1,6 @@
+@Lektion_4_Backend_och_API_Lektions_antekningar_HostAddress = http://localhost:5125
+
+GET {{Lektion_4_Backend_och_API_Lektions_antekningar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
